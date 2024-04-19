@@ -2,8 +2,8 @@ import { CartCounter } from "@/shopping-cart";
 
 
 export const metadata = {
- title: 'Shopping Cart',
- description: 'Un simple contador',
+  title: 'Shopping Cart',
+  description: 'Un simple contador',
 };
 
 export default function CounterPage() {
